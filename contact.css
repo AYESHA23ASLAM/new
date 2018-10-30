@@ -1,0 +1,54 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+#mainpage{
+	width:1200px;
+	background-color: pink;
+	height: 600px;
+	border:1px solid black;
+	margin-top: 15px;
+}
+#header{
+	width:1200px;
+	height:200px;
+	background-color:#dbebf3; 
+}
+#image{
+	width:350px;
+	height:200px;
+	background-color: #dbebf3;
+	float:left;
+}
+#description{
+	width:850px;
+	height:200px;
+	background-color:#fbf0ed;
+	float:right;
+}
+#description h2{
+	font-family: verdana;
+	font-size: 30px;
+	font-family: bold;
+	display:inline-block;
+	margin-top: 80px;
+}
+#logo{
+	width:180px;
+	height:90px;
+	background-color:#dbebf3;;
+	margin-top: 40px;
+	padding:10px;
+	display:inline-block;
+}
+#logo img{
+	margin-top:5px;
+}
+#form{
+	background-color: #e6ccb3;
+	margin-top: 10px;
+	height:340px;
+	width:1200px;
+	font-size: 25px;
+	padding-top: 50px;
+}
